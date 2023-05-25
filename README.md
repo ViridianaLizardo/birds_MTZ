@@ -5,17 +5,24 @@ The data and supplementary material to "Niche conservatism and convergence in bi
 
 ### Principal Investigator Contact Information
 **Name:** Viridiana Lizardo
+
 **Institution:** Facultad de Ciencias, UNAM
+
 **Address:** Museo de Zoología ‘Alfonso L. Herrera’, Departamento de Biología Evolutiva, Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM), 04510 Mexico City, Mexico.
 
 ### Associate or Co-investigator Contact Information
 **Name:** Juan J. Morrone
+
 **Institution:** Facultad de Ciencias, UNAM
+
 **Address:** Museo de Zoología ‘Alfonso L. Herrera’, Departamento de Biología Evolutiva, Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM), 04510 Mexico City, Mexico.
 
 **Name:** Erick García Trejo
+
 **Institution:** Facultad de Ciencias, UNAM
+
 **Address:** Unidad de Informática para la Biodiversidad, Departamento de Biología Evolutiva, Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM), 04510 Mexico City, Mexico.
+
 
 
 ## Data and file overview
