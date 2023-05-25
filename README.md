@@ -23,7 +23,6 @@ Facultad de Ciencias, UNAM
 Unidad de Informática para la Biodiversidad, Departamento de Biología Evolutiva, Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM), 04510 Mexico City, Mexico.
 
 
-``
 ## Data and file overview
   - **Appendix 1: S1_extended_metdod_and_results.docx**
     -  Full description of data sources, methods, code, and supplementary result data.
