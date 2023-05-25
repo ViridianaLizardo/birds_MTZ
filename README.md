@@ -32,12 +32,12 @@ The data and supplementary material to "Niche conservatism and convergence in bi
     - Species used for the analysis, their main distribution, and percentage of their distribution in the MTZ.
   - **S3_ztm_birds_biogeo_info.csv:** Biogeographic information of birds used in the analysis: 
   	- description of this database is included in Appendix 1.
-  -  Nexus file used for the analysis: ZTM_Birds.nex
+  -  **ZTM_Birds.nex: ** Nexus file used for the analysis. 
   -  **Correlation data.zip**: Respose variables and Envrionmental data used for the analyses 
   -  Raster files of the response variables
-  	-  Species richness (species_richness.zip)
-  	-  Mean number of nodes (nNodes.zip)
-  	-  mean age (mean_age.zip)
+  	- Species richness (species_richness.zip)
+  	- Mean number of nodes (nNodes.zip)
+  	- Mean crowning age (mean_age.zip)
     
 ## GBIF Associated data
   - https://doi.org/10.15468/dl.475rze
