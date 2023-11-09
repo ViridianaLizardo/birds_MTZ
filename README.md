@@ -28,9 +28,8 @@ Unidad de Informática para la Biodiversidad, Departamento de Biología Evolutiv
     -  Full description of data sources, methods, code, and supplementary result data.
   - **Appendix 2: S2_species_list.csv**
     - Species used for the analysis, their main distribution, and percentage of their distribution in the MTZ.
-  - **S3_ztm_birds_biogeo_info.csv:** 
-	  - Biogeographic information of birds used in the analysis 
-  	- description of this database is included in Appendix 1.
+  - **Appendix_3: MTZ's birds SDM hiperparameters and evaluation** 
+	  -  Hiperparameters used to model each species (fc, reg, iter), threshold value, variables used, and evaluation metrics (Mean pAUC ratio at 5%, Ommission rate)
   -  **ZTM_Birds.nex:** Nexus file used for the analysis. 
   -  **Correlation data.zip**: Respose variables and Envrionmental data used for the analyses 
 	  -  Raster files of the response variables
